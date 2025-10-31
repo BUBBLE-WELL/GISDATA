@@ -1,0 +1,234 @@
+                                 _____________________________
+
+                                        SaTScan v10.3.3
+                                 _____________________________
+
+
+Program run on: Wed Oct 29 19:32:44 2025
+
+Prospective Space-Time analysis
+scanning for clusters with high rates
+using the Discrete Poisson model.
+_______________________________________________________________________________________________
+
+SUMMARY OF DATA
+
+Study period.......................: 2019/5/1 to 2019/7/31
+Number of locations................: 332
+Population, averaged over time.....: 4025068
+Total number of cases..............: 6515
+Annual cases / 100000..............: 642.6
+_______________________________________________________________________________________________
+
+CLUSTERS DETECTED
+
+1.Location IDs included.: GEYLANG EAST, KATONG, KAMPONG UBI, ALJUNIED, MACPHERSON, MOUNTBATTEN,
+                          MARINE PARADE, KEMBANGAN, EAST COAST, KAKI BUKIT, FRANKEL, KALLANG
+                          WAY, JOO SENG, BOON KENG, TANJONG RHU, MARINA EAST (MP), GEYLANG
+                          BAHRU, TAI SENG, KAMPONG BUGIS, SENNETT, SIGLAP, KALLANG BAHRU,
+                          BIDADARI, AIRPORT ROAD, DEFU INDUSTRIAL PARK, BEDOK RESERVOIR, POTONG
+                          PASIR, UPPER PAYA LEBAR, BENDEMEER, CRAWFORD, NICOLL, MARINA EAST,
+                          WOODLEIGH, LAVENDER, BEDOK NORTH, KAMPONG GLAM, LORONG AH SOO, KIM
+                          KEAT, PLAB, ROCHOR CANAL, SUNGEI ROAD, PEI CHUN, SERANGOON CENTRAL,
+                          LITTLE INDIA
+  Coordinates / radius..: (1.316941 N, 103.898351 E) / 5.05 km
+  Span..................: 9.48 km
+  Time frame............: 2019/6/20 to 2019/7/31
+  Population............: 611347
+  Number of cases.......: 1876
+  Expected cases........: 451.74
+  Annual cases / 100000.: 2668.6
+  Observed / expected...: 4.15
+  Relative risk.........: 5.43
+  Log likelihood ratio..: 1428.937372
+  P-value...............: < 0.00000000000000001
+  Recurrence interval...: 1.9 quadrillion years
+
+2.Location IDs included.: WOODLANDS EAST
+  Coordinates / radius..: (1.441250 N, 103.801927 E) / 0 km
+  Span..................: 0 km
+  Time frame............: 2019/6/20 to 2019/7/31
+  Population............: 98980
+  Number of cases.......: 411
+  Expected cases........: 73.14
+  Annual cases / 100000.: 3611.0
+  Observed / expected...: 5.62
+  Relative risk.........: 5.93
+  Log likelihood ratio..: 380.638388
+  P-value...............: < 0.00000000000000001
+  Recurrence interval...: 1.9 quadrillion years
+
+3.Location IDs included.: YUHUA EAST
+  Coordinates / radius..: (1.340413 N, 103.738837 E) / 0 km
+  Span..................: 0 km
+  Time frame............: 2019/6/20 to 2019/7/31
+  Population............: 24770
+  Number of cases.......: 108
+  Expected cases........: 18.30
+  Annual cases / 100000.: 3791.7
+  Observed / expected...: 5.90
+  Relative risk.........: 5.98
+  Log likelihood ratio..: 102.630904
+  P-value...............: < 0.00000000000000001
+  Recurrence interval...: 1.9 quadrillion years
+
+4.Location IDs included.: PENG SIANG
+  Coordinates / radius..: (1.379343 N, 103.738630 E) / 0 km
+  Span..................: 0 km
+  Time frame............: 2019/6/20 to 2019/7/31
+  Population............: 34720
+  Number of cases.......: 92
+  Expected cases........: 25.66
+  Annual cases / 100000.: 2304.3
+  Observed / expected...: 3.59
+  Relative risk.........: 3.62
+  Log likelihood ratio..: 51.482327
+  P-value...............: 0.00000000000000011
+  Recurrence interval...: 172.6 trillion years
+
+5.Location IDs included.: BOON LAY PLACE
+  Coordinates / radius..: (1.345864 N, 103.711148 E) / 0 km
+  Span..................: 0 km
+  Time frame............: 2019/6/20 to 2019/7/31
+  Population............: 29340
+  Number of cases.......: 67
+  Expected cases........: 21.68
+  Annual cases / 100000.: 1985.9
+  Observed / expected...: 3.09
+  Relative risk.........: 3.11
+  Log likelihood ratio..: 30.434422
+  P-value...............: 0.0000000018
+  Recurrence interval...: 10.5 million years
+_______________________________________________________________________________________________
+
+ADDITIONAL RESULTS FILES
+
+Shapefile            : C:\Users\robinx\OneDrive - National University of Singapore\NUS\GE5219\Project\historical data processing\satscan_outputs_2019\2019_Hotspot_Analysis_Results.col.shp
+Shapefile            : C:\Users\robinx\OneDrive - National University of Singapore\NUS\GE5219\Project\historical data processing\satscan_outputs_2019\2019_Hotspot_Analysis_Results.gis.shp
+Cluster Information  : C:\Users\robinx\OneDrive - National University of Singapore\NUS\GE5219\Project\historical data processing\satscan_outputs_2019\2019_Hotspot_Analysis_Results.col.txt
+Cluster Information  : C:\Users\robinx\OneDrive - National University of Singapore\NUS\GE5219\Project\historical data processing\satscan_outputs_2019\2019_Hotspot_Analysis_Results.col.dbf
+Location Information : C:\Users\robinx\OneDrive - National University of Singapore\NUS\GE5219\Project\historical data processing\satscan_outputs_2019\2019_Hotspot_Analysis_Results.gis.txt
+Location Information : C:\Users\robinx\OneDrive - National University of Singapore\NUS\GE5219\Project\historical data processing\satscan_outputs_2019\2019_Hotspot_Analysis_Results.gis.dbf
+_______________________________________________________________________________________________
+
+PARAMETER SETTINGS
+
+Input
+-----
+  Case File        : C:\Users\robinx\OneDrive - National University of Singapore\NUS\GE5219\Project\historical data processing\satscan_inputs_2019\satscan_cases_final.csv
+  Population File  : C:\Users\robinx\OneDrive - National University of Singapore\NUS\GE5219\Project\historical data processing\satscan_inputs_2019\satscan_population_final.csv
+  Time Precision   : Day
+  Start Date       : 2019/5/1
+  End Date         : 2019/7/31
+  Coordinates File : C:\Users\robinx\OneDrive - National University of Singapore\NUS\GE5219\Project\historical data processing\satscan_inputs_2019\satscan_coordinates_final.csv
+  Coordinates      : Latitude/Longitude
+
+Analysis
+--------
+  Type of Analysis        : Prospective Space-Time
+  Probability Model       : Discrete Poisson
+  Scan For Areas With     : High Rates
+  Time Aggregation Units  : Day
+  Time Aggregation Length : 7
+
+Output
+------
+  Main Results File                : C:\Users\robinx\OneDrive - National University of Singapore\NUS\GE5219\Project\historical data processing\satscan_outputs_2019\2019_Hotspot_Analysis_Results.txt
+  HTML file for Google Map         : No
+  KML file for Google Earth        : No
+  Shapefile for GIS software       : Yes
+  HTML file for Cartesian map      : No
+  Cluster Information              : Yes (ASCII), Yes (dBase)
+  Stratified Cluster Information   : No (ASCII), No (dBase)
+  Location Information             : Yes (ASCII), Yes (dBase)
+  Risk Estimates for Each Location : No (ASCII), No (dBase)
+  Simulated Log Likelihood Ratios  : No (ASCII), No (dBase)
+
+Data Checking
+-------------
+  Temporal Data Check     : Check to ensure that all cases and controls are within the specified temporal study period.
+  Geographical Data Check : Check to ensure that all observations (cases, controls and populations) are within the specified geographical area.
+
+Spatial Neighbors
+-----------------
+  Specify neighbors through a non-Euclidean neighbors file : No
+  Specify a meta location file                             : No
+  Observations with Multiple Locations                     : One location per observation.
+
+Locations Network
+-----------------
+  Use Locations Network File : No
+
+Spatial Window
+--------------
+  Maximum Spatial Cluster Size     : 50 percent of population at risk
+  Include Purely Temporal Clusters : No
+  Window Shape                     : Circular
+
+Temporal Window
+---------------
+  Minimum Temporal Cluster Size   : 1 Day
+  Maximum Temporal Cluster Size   : 50 percent of study period
+  Include Purely Spatial Clusters : No
+
+Cluster Restrictions
+--------------------
+  Minimum Cases in Cluster for High Rates : 2
+  Restrict High Rate Clusters             : No
+
+Space And Time Adjustments
+--------------------------
+  Temporal Adjustment                     : None
+  Adjust for Weekly Trends, Nonparametric : No
+  Spatial Adjustment                      : None
+  Adjust for Known Relative Risks         : No
+
+Inference
+---------
+  P-Value Reporting                  : Default Combination
+  Number of Replications             : 999
+  Adjusting for More Likely Clusters : No
+
+Drilldown
+---------
+  Same Design as Main Analysis : No
+  Purely Spatial Bernoulli     : No
+
+Miscellaneous Analysis
+----------------------
+  Prospective Analysis Frequency : Same As Time Aggregation
+
+Spatial Output
+--------------
+  Report Hierarchical Clusters              : Yes
+  Criteria for Reporting Secondary Clusters : No Geographical Overlap
+  Restrict Reporting to Smaller Clusters    : No
+
+Temporal Graphs
+---------------
+  Produce Temporal Graphs : No
+
+Other Output
+------------
+  Report Critical Values     : No
+  Report Monte Carlo Rank    : No
+  Print ASCII Column Headers : No
+  User Defined Title         : 
+
+Notifications
+-------------
+  Always Send Email                      : No
+  Send Email with Results Meeting Cutoff : No
+
+Run Options
+-----------
+  Processor Usage   : All Available Processors
+  Suppress Warnings : No
+  Logging Analysis  : No
+_______________________________________________________________________________________________
+
+RUN INFORMATION
+
+Program completed  : Wed Oct 29 19:32:44 2025
+Total Running Time : 0 seconds
+Processor Usage    : 32 processors
