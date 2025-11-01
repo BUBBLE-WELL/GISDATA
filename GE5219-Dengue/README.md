@@ -31,4 +31,4 @@ This workspace hosts a streaming dengue risk dashboard for GE5219.
 
 
 ##  AI Tool Declaration
-This Repository used [GPT-5, GPT-5-Codex, Claude Sonnet 3.7] to [generate ideas, improve coding ]. 
+This Repository used [GPT-5, GPT-5-Codex, Claude Sonnet 3.7, Gemini 2.5 Pro] to [generate ideas, improve coding ]. 
